@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Laurice Lescano		laurice.lescano@gmail.com	LauriceLescano
 
 # THANKS
 
